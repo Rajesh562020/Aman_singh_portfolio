@@ -7,7 +7,7 @@ import Home from './component/home/Home.jsx';
 import About from './component/about/About.jsx';
 import Service from './component/service/Service.jsx';
 import BaseComponent from './component/BaseComponent.jsx';
-import ScrollToTop from './component/common/ScrollToTop.jsx';
+// import ScrollToTop from './component/common/ScrollToTop.jsx';
 function App() {
   return (
     <>
