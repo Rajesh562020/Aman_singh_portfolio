@@ -17,7 +17,7 @@ const Footer = () => {
        <AiFillYoutube size="60" color="red"/>
 
       </div>
-      <div className='col-md-6 d-flex flex-row justify-content-around align-items-center mt-5'>
+      <div className='col-md-6 d-flex flex-column justify-content-around align-items-center mt-5'>
        <p>
         Home
        </p>
