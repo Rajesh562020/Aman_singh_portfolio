@@ -3,7 +3,7 @@ import React from 'react'
 import "./home.css";
 const Home = () => {
   return (
-    <section id="home">
+    <section id="Home">
     
     <div className='home_head d-flex justify-content-center align-items-center vh-100 p-3 flex-column'>
       <h1>"Home"</h1>

@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className='footer_div bg-dark text-white text-center'>
     
-    
+     <h2>Follow Us!</h2>
     <div className='container'>
     <div className='row'>
       <div className='col-md-6 mt-5'>
@@ -17,7 +17,7 @@ const Footer = () => {
        <AiFillYoutube size="60" color="red"/>
 
       </div>
-      <div className='col-md-6 d-flex flex-column justify-content-around align-items-center mt-5'>
+      <div className='col-md-6 d-flex flex-row justify-content-around align-items-center mt-5'>
        <p>
         Home
        </p>

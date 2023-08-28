@@ -30,8 +30,8 @@ const Header = () => {
                 Home
               </Link> */}
               <div className="cursor_pointer">
-              <ScrollLink  to="home" smooth={true} duration={500} className="nav-link mx-5 " >
-              home
+              <ScrollLink  to="Home" smooth={true} duration={500} className="nav-link mx-5 " >
+              Home
               </ScrollLink>
               </div>
             
