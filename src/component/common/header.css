@@ -1,0 +1,9 @@
+
+   .nav_link{
+     /*Adjust the value as needed */
+    margin-right: 30px !important;
+    /* cursor: pointer; */
+  }
+  .cursor_pointer{
+    cursor: pointer;
+  }

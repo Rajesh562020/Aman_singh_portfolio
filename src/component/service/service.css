@@ -1,0 +1,18 @@
+.service_head{
+    color: white;
+    background-image: url('https://images.pexels.com/photos/11772623/pexels-photo-11772623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    /* Set a specific height */
+ min-height: 500px; 
+
+ /* Create the parallax scrolling effect */
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.service_head_text{
+    padding: 10px;
+
+    color: white;
+
+}
